@@ -1,0 +1,76 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nombre": "Paola",
+      "correo": "paola.valentina080670@gmail.com",
+      "imagen": "https://res.cloudinary.com/paolavbm/image/upload/v1645390951/photo1639960624_fvmrvk.jpg",
+      "nivel": 2,
+      "estadistica": [
+        5,
+        5,
+        0
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Diana",
+      "correo": "dianauldris@gmail.com",
+      "imagen": "https://res.cloudinary.com/paolavbm/image/upload/v1646161522/db9ca9g5unvbveloe1mn.jpg",
+      "tiempo": "",
+      "estadistica": [
+        5,
+        5,
+        0
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "",
+      "correo": "",
+      "imagen": "",
+      "tiempo": "",
+      "estadistica": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "",
+      "correo": "",
+      "imagen": "",
+      "tiempo": "",
+      "estadistica": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Paola",
+      "correo": "maria@gmail.com",
+      "imagen": "",
+      "tiempo": "",
+      "estadistica": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Chochito",
+      "correo": "paola@gmai.com",
+      "imagen": "",
+      "tiempo": "",
+      "estadistica": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+html {
+  background-color: #98a2fa;
+}
+
+.flecha {
+  position: absolute;
+  top: 19em;
+}
+
+.bien {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  display: block;
+  background-color: #ACFFCF;
+  height: 8em;
+  text-align: center;
+  padding: 2em;
+}
+.bien h5 {
+  color: #16161A;
+}
+.bien button {
+  color: white;
+  background-color: #0F915B;
+  border-radius: 15px;
+  width: 50%;
+  height: 3em;
+  border-style: none;
+}
+
+.suerte {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  display: block;
+  background-color: #F9CFD7;
+  height: 8em;
+  text-align: center;
+  padding: 0.5em;
+}
+.suerte h5 {
+  color: #B81E3B;
+}
+.suerte button {
+  color: white;
+  background-color: #EF4565;
+  border-radius: 15px;
+  width: 50%;
+  height: 3em;
+  border-style: none;
+}
+
+.hidden {
+  display: none;
+}
+
+.Link {
+  color: #393e6b !important;
+}
+
+.profileNav {
+  width: 40px;
+  height: 40px;
+  display: block;
+}
+
+.barra-fondo {
+  margin: auto;
+  background-color: white;
+  width: 50%;
+  height: 15px;
+  border-radius: 5px;
+}
+
+.header {
+  display: flex;
+}
+
+.span {
+  margin-right: 2em;
+}
+
+.progress {
+  height: 100%;
+  width: 0;
+  background-color: #2CB67D;
+  border-radius: 5px;
+}
+
+.x {
+  cursor: pointer;
+}
+
+.correctas {
+  color: #fff179;
+}
+
+.continua {
+  color: #41496d;
+}
+
+.felicidades {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  display: block;
+  background-color: #e1c7ff;
+  height: 8em;
+  text-align: center;
+  padding: 2em;
+}
+.felicidades h5 {
+  color: #16161A;
+}
+.felicidades button {
+  color: white;
+  background-color: #5a5696;
+  border-radius: 15px;
+  width: 50%;
+  height: 3em;
+  border-style: none;
+}
+
+.recompensa {
+  font-size: 25px;
+  color: #043b24;
+}
+
+.libro {
+  margin-left: 1em;
+}
+
+/*# sourceMappingURL=styles.css.map */

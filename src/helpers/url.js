@@ -1,0 +1,6 @@
+export const urlUser = 'https://user-trivia-sofka.herokuapp.com/user/'
+export const urlLevel1 = 'https://sofka-trivia.herokuapp.com/level1/'
+export const urlLevel2 = 'https://sofka-trivia.herokuapp.com/level2/'
+export const urlLevel3 = 'https://sofka-trivia.herokuapp.com/level3/'
+export const urlLevel4 = 'https://sofka-trivia.herokuapp.com/level4/'
+export const urlLevel5 = 'https://sofka-trivia.herokuapp.com/level5/'
