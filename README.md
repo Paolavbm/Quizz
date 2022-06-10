@@ -11,7 +11,7 @@ Una app de preguntas de Cultura General hecha con JavaScript, React y Heroku
 [Despliegue de la aplicación](https://wondrous-sunshine-d186ed.netlify.app/)
 
 ### Para ejecutar el programa 🚀
-npm i o npm install para instalar las dependencias
+npm i o npm install para instalar las dependencias <br/>
 npm start para correr el servidor
 
 ### Apis 📋
