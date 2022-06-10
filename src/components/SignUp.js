@@ -13,6 +13,7 @@ const SignUp = () => {
     nombre: '',
     correo: '',
     imagen: '',
+    nivel: 2,
     tiempo: '',
     estadistica: [0, 0, 0],
 
@@ -58,11 +59,7 @@ const SignUp = () => {
 
 
           <h2>Registro</h2>
-          <img width={100} src='https://res.cloudinary.com/paolavbm/image/upload/v1654786190/Sofka/servicio-al-cliente_jvbqno.png' alt='' />
-          <div>
-            <Label>Foto Perfil</Label>
-            <Input id="capital" type="file" name="foto" onChange={handleFileChange} value={imagen} />
-          </div>
+          <img width={100} src='https://res.cloudinary.com/paolavbm/image/upload/v1654786190/Sofka/servicio-al-cliente_jvbqno.png' alt='e' />
 
           <div>
             <Label>Nombres</Label>
@@ -72,7 +69,10 @@ const SignUp = () => {
             <Label>Correo</Label>
             <Input2 id="correo" type="email" name="correo" placeholder='Correo Electronico' onChange={handleOnChange} value={correo} />
           </div>
-
+          <div>
+            <Label>Foto Perfil</Label>
+            <Input id="capital" type="file" name="foto" onChange={handleFileChange} value={imagen} />
+          </div>
           <div>
             <ButtonRegistro id="btn" className='bg' type='submit' onClick={postData}>Registrar</ButtonRegistro>
           </div>

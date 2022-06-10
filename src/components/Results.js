@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { useNavigate } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { DivQ, Div2, H1R, BotonInicio } from '../styles/styled';
 
 const Results = () => {
@@ -11,7 +11,7 @@ const Results = () => {
   let [mensaje, setMensaje] = useState("");
   let [alert, setAlert] = useState("hidden");
   const navigate = useNavigate();
-  let [url] = useState(user.nivel);
+  let [url, setUrl] = useState(user.nivel);
   
   
 
@@ -31,7 +31,7 @@ const Results = () => {
   })
 
   const estad = JSON.parse(localStorage.getItem('user'));
-  const [ setUser] = useState({
+  const [usuario, setUser] = useState({
     id:"",
     nombre: "",
     correo: "",
