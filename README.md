@@ -11,9 +11,9 @@ Una app de preguntas de Cultura General hecha con JavaScript, React y Heroku
 [Despliegue de la aplicación](https://wondrous-sunshine-d186ed.netlify.app/)
 
 ### Apis 📋
-https://user-trivia-sofka.herokuapp.com/user/
-https://sofka-trivia.herokuapp.com/level1/
-https://sofka-trivia.herokuapp.com/level2/
-https://sofka-trivia.herokuapp.com/level3/
-https://sofka-trivia.herokuapp.com/level4/
-https://sofka-trivia.herokuapp.com/level5/
+https://user-trivia-sofka.herokuapp.com/user/ <br/>
+https://sofka-trivia.herokuapp.com/level1/  <br/>
+https://sofka-trivia.herokuapp.com/level2/  <br/>
+https://sofka-trivia.herokuapp.com/level3/  <br/>
+https://sofka-trivia.herokuapp.com/level4/ <br/>
+https://sofka-trivia.herokuapp.com/level5/  <br/>
